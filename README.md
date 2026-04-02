@@ -23,6 +23,8 @@ npm install
 ## 🏃 Como Executar
 
 ```bash
+npm start
+# ou
 node server.js
 ```
 
@@ -30,6 +32,8 @@ O servidor iniciará e exibirá:
 ```
 Servidor rodando em http://localhost:3000
 ```
+
+> Bonus: Acesse `http://localhost:3000/` no navegador para ver uma página HTML/CSS de status do servidor (visual, com cartão e animação).
 
 ## 🔌 Endpoints
 
